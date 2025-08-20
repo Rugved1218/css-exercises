@@ -1,0 +1,19 @@
+p{
+    font-family:"Times New Roman","Verdana","DejaVu Sans";
+    background-color:lightpink;
+
+}
+#second{
+    color:blue;
+    font-size:36px;
+}
+
+.third{
+    font-size:24px;
+}
+
+#fourth{
+    font-weight:bold;
+    font-size:24px;
+    background-color:lightgreen;
+}
